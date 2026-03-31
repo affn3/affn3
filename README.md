@@ -13,9 +13,9 @@
 <!-- Snake animation (add via GitHub Actions — see bottom of README) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilsaffolter/nilsaffolter/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilsaffolter/nilsaffolter/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nilsaffolter/nilsaffolter/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/affn3/affn3/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/affn3/affn3/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/affn3/affn3/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -35,7 +35,7 @@ const nils = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nilsaffolter&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=1a1f2e" />
+<img src="https://komarev.com/ghpvc/?username=affn3&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=1a1f2e" />
 
 </div>
 
@@ -65,15 +65,15 @@ const nils = {
 
 <div align="center">
 
-<a href="https://github.com/nilsaffolter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilsaffolter&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=E5E7EB&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsaffolter&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=E5E7EB&langs_count=6" />
+<a href="https://github.com/affn3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=affn3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=E5E7EB&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affn3&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=E5E7EB&langs_count=6" />
 </a>
 
 <br/>
 
-<a href="https://github.com/nilsaffolter">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilsaffolter&theme=github-dark-blue&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" />
+<a href="https://github.com/affn3">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=affn3&theme=github-dark-blue&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" />
 </a>
 
 </div>
@@ -84,7 +84,7 @@ const nils = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilsaffolter&bg_color=0D1117&color=9CA3AF&line=6B7280&point=E5E7EB&area=true&area_color=1a1f2e&hide_border=true&custom_title=Contribution+Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=affn3&bg_color=0D1117&color=9CA3AF&line=6B7280&point=E5E7EB&area=true&area_color=1a1f2e&hide_border=true&custom_title=Contribution+Graph" />
 
 </div>
 
@@ -142,5 +142,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Ersetze "nilsaffolter" überall mit deinem echten GitHub-Username!
+Ersetze "affn3" überall mit deinem echten GitHub-Username!
 ====================================================== -->
