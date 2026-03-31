@@ -65,12 +65,13 @@ const nils = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=affn3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="Nils' GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affn3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=E5E7EB&langs_count=6" alt="Nils' Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=affn3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=E5E7EB" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affn3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=E5E7EB" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=affn3&theme=dark&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&sideNums=E5E7EB&currStreakNum=E5E7EB" alt="Nils' Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=affn3&theme=dark&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&sideNums=E5E7EB&currStreakNum=E5E7EB" />
 
 </div>
 
