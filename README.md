@@ -63,8 +63,6 @@ const nils = {
 
 ## `> git log --stats`
 
-## `> git log --stats`
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=affn3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="Nils' GitHub Stats" />
