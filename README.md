@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:0D1117&height=140&section=header&text=nils%affolter&fontSize=40&fontColor=E5E7EB&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,100:0D1117&height=140&section=header&text=nils%20affolter&fontSize=40&fontColor=E5E7EB&animation=fadeIn" />
 
 [![Basel, Switzerland](https://img.shields.io/badge/Basel%2C_Switzerland-0D1117?style=for-the-badge&logo=googlemaps&logoColor=9CA3AF&cacheSeconds=86400)](https://www.google.com/maps/place/Basel)
 
