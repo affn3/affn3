@@ -26,7 +26,7 @@
 ```ts
 const nils = {
   location : "Basel, Switzerland 🇨🇭",
-  role     : "Software Developer",
+  role     : "Apprentice Software Developer",
   focus    : ["E-Commerce", "Clean Code", "UI/UX"],
   learning : "always",
   motto    : "Ship it. Then make it better.",
