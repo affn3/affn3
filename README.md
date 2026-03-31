@@ -91,8 +91,7 @@ const nils = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=9CA3AF&labelColor=1a1f2e)](https://www.linkedin.com/in/leandro-fragale-53780b34a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=9CA3AF&labelColor=1a1f2e)](https://www.instagram.com/leandro_fragale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=9CA3AF&labelColor=1a1f2e)](https://www.linkedin.com/in/nils-affolter/)
 [![Basel](https://img.shields.io/badge/📍_Basel,_Switzerland-0D1117?style=for-the-badge&logoColor=9CA3AF&labelColor=1a1f2e)](https://www.google.com/maps/place/Basel)
 
 </div>
@@ -110,34 +109,3 @@ const nils = {
 
 ---
 
-<!-- =====================================================
-🐍 SNAKE ANIMATION SETUP (einmalig konfigurieren)
-=======================================================
-
-Damit die Snake-Animation funktioniert, füge diese GitHub Action hinzu:
-Pfad: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Ersetze "affn3" überall mit deinem echten GitHub-Username!
-====================================================== -->
