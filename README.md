@@ -9,7 +9,7 @@
 
 ### About
 
-E-Commerce Developer, based in Basel (CH).  
+Software Developer, based in Basel (CH).  
 Building clean, reliable web apps — and always learning.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9CA3AF,100:0D1117&height=2&section=header"/>
